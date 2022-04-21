@@ -44,3 +44,12 @@
   
  ## Voting Dapp(Task 3) Contributions
   ### all commits on task 3 : https://github.com/maura-dev/Voting-Dapp/commits?author=Phyf3
+   - added role checks to existing code - https://github.com/maura-dev/Voting-Dapp/commit/bde5c05433d10b21c7ad74a81d038106290881a8
+   - merged above changes : https://github.com/maura-dev/Voting-Dapp/commit/862207353aa12fce4130fe64347fbe51f937a929
+   - fixed a few functions and added vote compilation : https://github.com/maura-dev/Voting-Dapp/commit/b84141e94eeec99b26ab7c768a60d37bb97092b8
+   - merged above changes : https://github.com/maura-dev/Voting-Dapp/commit/efa2fa4097da630c810aad803ccc8d396a2a7373
+   - fixed batch transfer and token payments : https://github.com/maura-dev/Voting-Dapp/commit/8c0a2ac281a89e0b595e82511cbb8228f8e66ffd
+   - added timing forshowing interest : https://github.com/maura-dev/Voting-Dapp/commit/8a7277be15dd27ef1cf33aeac2dfe0fd785da937
+   - natspec commenting : https://github.com/maura-dev/Voting-Dapp/commit/55a4f1bec01c88eaec5dbd031288b3567bb8d5a2
+   - function to batch add stakeholders & disperse tokens in one go : https://github.com/maura-dev/Voting-Dapp/commit/8ee6afe943f1fe19acb1511e71b8d3beed162a19
+   - merged previous changes : https://github.com/maura-dev/Voting-Dapp/commit/dcd8a63b4d9cdd830c0bcb96a89f712069b804d3
